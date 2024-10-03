@@ -10,7 +10,7 @@ The font size here is set to 62.5% so that
 a little easier
 */
 body {
-	margin: 50 ;
+	margin: 600 ;
 	//width: 800px;
 	padding: 20;
 	background: #7a2122 url('../images/body_bg.gif') repeat-x top;
@@ -20,7 +20,7 @@ body {
 }
 
 h1, h2, p, ul, li {
-	margin: 0;
+	margin: 600;
 	padding: 0;
 }
 
