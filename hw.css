@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -14,7 +14,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Header */
+
 header {
     background-color: #222;
     color: white;
@@ -32,7 +32,7 @@ header h3 {
     margin-top: 10px;
 }
 
-/* Navigation Menu */
+
 #menu {
     background-color: #555;
     padding: 10px 0;
@@ -63,7 +63,7 @@ header h3 {
     background-color: #333;
 }
 
-/* Content Area */
+
 #content {
     display: flex;
     padding: 20px;
@@ -82,7 +82,7 @@ header h3 {
     border-left: 1px solid #ddd;
 }
 
-/* Login Form */
+
 #login {
     background-color: #eee;
     padding: 20px;
@@ -117,7 +117,7 @@ header h3 {
     background-color: #333;
 }
 
-/* News Section */
+
 #news h3 {
     margin-top: 0;
 }
@@ -140,13 +140,11 @@ header h3 {
     text-decoration: underline;
 }
 
-/* Right Content Area */
 #right h1 {
     font-size: 1.8em;
     margin-top: 0;
 }
 
-/* Footer */
 #footer {
     background-color: #222;
     color: white;
